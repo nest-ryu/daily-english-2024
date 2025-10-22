@@ -8,7 +8,11 @@ import re
 st.set_page_config(page_title="왕초보 영어 JSON 편집기", layout="centered")
 st.title("📝 왕초보 영어 2024 JSON 편집기")
 
-DATA_PATH = "data_dialog_only.json"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data_dialog_only.json")
+
+#DATA_PATH = "data_dialog_only.json"
+
 
 # ---------------- JSON 불러오기 ----------------
 if not os.path.exists(DATA_PATH):
