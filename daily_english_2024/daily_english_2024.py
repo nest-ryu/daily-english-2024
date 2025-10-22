@@ -10,14 +10,17 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 
+  
 
 # ------------ 경로 설정 ------------
- # ✅ Streamlit Cloud에서 항상 현재 파일 기준으로 경로를 고정
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_PATH = os.path.join(BASE_DIR, "data_dialog_only.json")
+# ✅ Streamlit Cloud에서 항상 현재 파일 기준으로 경로를 고정
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))     # 현재 파일 기준 절대경로
+DATA_PATH = os.path.join(BASE_DIR, "data_dialog_only.json")   # ✅ JSON 파일명
+BASE_AUDIO_PATH = os.path.join(BASE_DIR, "audio")
 
 #DATA_PATH = "data_dialog_only.json"   # ✅ JSON 파일명
-BASE_AUDIO_PATH = "audio"
+#BASE_AUDIO_PATH = "audio"
+
 
 # ------------ 한글 폰트 등록 ------------
 pdfmetrics.registerFont(UnicodeCIDFont("HYSMyeongJo-Medium"))
