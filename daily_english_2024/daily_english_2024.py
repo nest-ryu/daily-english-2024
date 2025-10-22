@@ -2,7 +2,7 @@
 import streamlit as st
 st.set_page_config(page_title="왕초보 영어 2024 하편", layout="centered")
 
-import os, json, random, re
+import os, sys, json, random, re
 from io import BytesIO
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
@@ -10,8 +10,13 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 
+
 # ------------ 경로 설정 ------------
-DATA_PATH = "data_dialog_only.json"   # ✅ JSON 파일명
+ # ✅ Streamlit Cloud에서 항상 현재 파일 기준으로 경로를 고정
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, "data_dialog_only.json")
+
+#DATA_PATH = "data_dialog_only.json"   # ✅ JSON 파일명
 BASE_AUDIO_PATH = "audio"
 
 # ------------ 한글 폰트 등록 ------------
