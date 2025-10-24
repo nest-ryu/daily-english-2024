@@ -72,7 +72,7 @@
       {
         "speaker": "A",
         "en": "Can you stop by the supermarket ?",
-        "ko": "슈퍼마켓 들를 수 있어요 ?"
+        "ko": "슈퍼마켓 들를 수 있어요?"
       },
       {
         "speaker": "B",
@@ -91,7 +91,6 @@
       }
     ],
     "patterns": [
-      "핵심 표현",
       "stop by + 장소 : ~에 잠깐 들르다",
       "What do you + 동사? : 무엇을 ~하니?",
       "order ~ online : 온라인으로 주문하다"
@@ -104,28 +103,8 @@
     ]
   },
   "DAY 002": {
-    "title": "",
+    "title": "머리 좀 감아 제발",
     "dialogue": [
-      {
-        "speaker": "A",
-        "en": "Gosh , my head's so",
-        "ko": "휴, 머리 엄청 가렵네."
-      },
-      {
-        "speaker": "B",
-        "en": "Eww ! When did you last",
-        "ko": ""
-      },
-      {
-        "speaker": "A",
-        "en": "Two days ago . I'm trying to",
-        "ko": ""
-      },
-      {
-        "speaker": "B",
-        "en": "It smells , man ! How can you",
-        "ko": ""
-      },
       {
         "speaker": "A",
         "en": "Gosh , my head's so itchy .",
@@ -134,7 +113,7 @@
       {
         "speaker": "B",
         "en": "Eww ! When did you last wash your hair?",
-        "ko": ""
+        "ko": "우웩! 언제 마지막으로 머리 감았어?"
       },
       {
         "speaker": "A",
@@ -143,36 +122,26 @@
       },
       {
         "speaker": "B",
-        "en": "It smells , man ! How can you stand it?",
+        "en": "It smells , man ! How can you stand it",
         "ko": "냄새나, 야! 넌 그걸 어떻게 견디니?"
       }
     ],
-    "patterns": [],
-    "practice": []
+    "patterns": [
+      "so + 형용사 : 정말/엄청 ~한",
+      "When did you last + 동사? : 마지막으로 언제 ~했어?",
+      "save + 명사 : ~을 아끼다",
+      "stand (it) : 견디다/참다"
+    ],
+    "practice": [
+      "1. 물이 엄청 차가워.",
+      "2. 너 마지막으로 그녀에게 언제 전화했어?",
+      "3. Peter는 3일 전에 떠났어.",
+      "4. 너 어떻게 그 상자를 열었니?"
+    ]
   },
   "DAY 003": {
-    "title": "",
+    "title": "계산 중 빼먹은 물건",
     "dialogue": [
-      {
-        "speaker": "A",
-        "en": "You didn't ring up",
-        "ko": ""
-      },
-      {
-        "speaker": "B",
-        "en": "Oh, I'm sorry . Was that",
-        "ko": "반복낭독"
-      },
-      {
-        "speaker": "A",
-        "en": "Yeah , I think you",
-        "ko": ""
-      },
-      {
-        "speaker": "B",
-        "en": "I thought it was the next",
-        "ko": ""
-      },
       {
         "speaker": "A",
         "en": "You didn't ring up this one .",
@@ -191,30 +160,25 @@
       {
         "speaker": "B",
         "en": "I thought it was the next customer's item .",
-        "ko": ""
+        "ko": "다음 손님 물건인 줄 알았네요."
       }
     ],
-    "patterns": [],
-    "practice": []
+    "patterns": [
+      "ring up (명사): (명사)를 계산에 넣다 / 계산하다",
+      "Was/Were (주어) (명사)? : ~이었나요?",
+      "forgot to + 동사원형 : ~하는 걸 잊었다",
+      "I thought (평서문) : ~라고 생각했어요 / ~인 줄 알았어요"
+    ],
+    "practice": [
+      "1. 이것도 계산에 넣어 주실 수 있나요?",
+      "2. 그거 Jane 거였어요?",
+      "3. 난 그를 픽업하는 걸 잊었어요.",
+      "4. 난 네가 거기에 있는 줄 알았어요."
+    ]
   },
   "DAY 004": {
-    "title": "",
+    "title": "중요한 고객의 생일",
     "dialogue": [
-      {
-        "speaker": "A",
-        "en": "It's Mr. Jackson's",
-        "ko": ""
-      },
-      {
-        "speaker": "B",
-        "en": "Did you send him a",
-        "ko": ""
-      },
-      {
-        "speaker": "A",
-        "en": "Do youI should ?",
-        "ko": "보내야 할 거 같아?"
-      },
       {
         "speaker": "A",
         "en": "It's Mr. Jackson's birthday tomorrow .",
@@ -231,13 +195,23 @@
         "ko": "보내야 할 거 같아?"
       },
       {
-        "speaker": "B",
+        "speaker": "A",
         "en": "Definitely ! He's our biggest client !",
-        "ko": ""
+        "ko": "물론이지. 그는 우리의 가장 큰 고객인데!"
       }
     ],
-    "patterns": [],
-    "practice": []
+    "patterns": [
+      "It’s (날/요일): ~이야 / ~이네",
+      "or something: ~이나 뭐 그런 거",
+      "Do you think + 평서문?: ~라고 생각해?",
+      "biggest client: 가장 중요한 고객"
+    ],
+    "practice": [
+      "1. 오늘은 밸런타인데이야.",
+      "2. 너 연필이나 뭐 그런 거 있어?",
+      "3. 넌 내가 거짓말하고 있다고 생각해?",
+      "4. Angela는 우리의 가장 큰 고객이야"
+    ]
   },
   "DAY 005": {
     "title": "",
