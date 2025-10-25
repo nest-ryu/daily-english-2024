@@ -133,7 +133,7 @@ with col2:
             st.rerun()
 with col3:
     st.markdown(
-        f"<div style='text-align:right;font-weight:600'>현재 DAY: {st.session_state.current_day}</div>",
+        f"<div style='text-align:right;font-weight:600'>현재 : {st.session_state.current_day}</div>",
         unsafe_allow_html=True
     )
 
