@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import streamlit as st
-import os, json, re
+import os, json, re, base64
 from io import BytesIO
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
@@ -140,7 +140,18 @@ with col3:
 # ------------ 현재 DAY 표시 ------------
 day = st.session_state.current_day
 lesson = data.get(day, {})
+
 st.header(f"{day} — {lesson.get('title', '')}")
+
+# 🎧 오디오
+num = day.split()[1]
+audio = find_audio_file(num)
+if audio:
+    st.audio(audio)
+else:
+    st.info("🔇 오디오 파일이 없습니다.")
+
+st.markdown("")
 
 # 💬 Dialogue
 if lesson.get("dialogue"):
@@ -160,6 +171,8 @@ if lesson.get("patterns"):
 else:
     st.info("핵심 표현이 없습니다.")
 
+st.markdown("")
+
 # ✍️ 손영작 연습
 if lesson.get("practice"):
     st.subheader("✍️ 손영작 연습")
@@ -168,13 +181,7 @@ if lesson.get("practice"):
 else:
     st.info("손영작 연습이 없습니다.")
 
-# 🎧 오디오
-num = day.split()[1]
-audio = find_audio_file(num)
-if audio:
-    st.audio(audio)
-else:
-    st.info("🔇 오디오 파일이 없습니다.")
+st.markdown("")
 
 # 📘 PDF 다운로드
 pdf = make_pdf(day, lesson)
