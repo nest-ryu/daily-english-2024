@@ -1,0 +1,2501 @@
+{
+  "DAY 001": {
+    "title": "우리에겐 온라인주문이 있지 (가정)",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Can you stop by the supermarket?",
+        "ko": "슈퍼마켓 들를 수 있어요?"
+      },
+      {
+        "speaker": "B",
+        "en": "Sure. What do you need?",
+        "ko": "그럼요. 뭐가 필요해요?"
+      },
+      {
+        "speaker": "A",
+        "en": "We need some water and paper towels.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "I'll just order them online.",
+        "ko": "그냥 온라인으로 주문할게요."
+      }
+    ],
+    "patterns": [
+      "stop by ~ ~에 들르다",
+      "What + do you ~? : 넌 무엇을 ~하니?",
+      "and : 그리고, ~하고",
+      "I read it online. : 나 그거 온라인에서 읽었어."
+    ],
+    "practice": [
+      "1. 내일 아침에 내 사무실에 들러.",
+      "2. 넌 뭘 먹고 싶니?",
+      "3. 난 빨대하고 컵이 필요해.",
+      "4. 그걸 온라인으로 해!"
+    ]
+  },
+  "DAY 002": {
+    "title": "머리 좀 감아 제발",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Gosh, my head's so itchy.",
+        "ko": "휴, 머리 엄청 가렵네."
+      },
+      {
+        "speaker": "B",
+        "en": "Eww! When did you last wash your hair?",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Two days ago. I'm trying to save water.",
+        "ko": "이틀 전에. 물을 아끼려는 중이지."
+      },
+      {
+        "speaker": "B",
+        "en": "It smells, man! How can you stand it?",
+        "ko": "냄새나, 야! 넌 그걸 어떻게 견디니?"
+      }
+    ],
+    "patterns": [
+      "so ~ : 엄청 ~한",
+      "How + ~? : 어떻게 ~이니?"
+    ],
+    "practice": [
+      "1. 물이 엄청 차가워.",
+      "2. 너 언제 마지막으로 그녀에게 전화했어?",
+      "3. Peter는 3일 전에 떠났어.",
+      "4. 너 어떻게 그 상자를 열었니?"
+    ]
+  },
+  "DAY 003": {
+    "title": "계산중 빼먹은 물건",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "You didn't ring up this one.",
+        "ko": "이거 계산 안 하셨는데요."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, I'm sorry. Was that yours?",
+        "ko": "오, 죄송해요. 그거 손님 거였나요?"
+      },
+      {
+        "speaker": "A",
+        "en": "Yeah, I think you forgot to ring it up.",
+        "ko": "네, 계산하는 거 잊으신 거 같아요."
+      },
+      {
+        "speaker": "B",
+        "en": "I thought it was the next customer's item.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "ring up ~ ~를 계산에 넣다/계산하다",
+      "Was/Were ~ ~? ~가 ~였나요?",
+      "forget + to ~ ~하는 걸 잊다",
+      "I thought ~. : 난 ~이라고 생각했어. / ~인 줄 알았어."
+    ],
+    "practice": [
+      "1. 이것도 계산에 넣어 주실 수 있나요?",
+      "2. 그거 Jane 거였어?",
+      "3. 난 그를 픽업하는 걸 잊었어.",
+      "4. 난 네가 거기에 있는 줄 알았어."
+    ]
+  },
+  "DAY 004": {
+    "title": "중요한 고객의 생일",
+    "dialogue": [],
+    "patterns": [],
+    "practice": [
+      "1. 오늘은 밸런타인데이야.",
+      "2. 너 연필이나 뭐 그런 거 있어?",
+      "3. 넌 내가 거짓말하고 있다고 생각해?",
+      "4. Angela는 우리의 가장 큰 고객이야."
+    ]
+  },
+  "DAY 005": {
+    "title": "좌석 스크린 없이 비행할 순 없지",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "My screen is not turning on.",
+        "ko": "화면이 안 켜지는데요."
+      },
+      {
+        "speaker": "B",
+        "en": "Could you press the reset button?",
+        "ko": "리셋 버튼 눌러 주실 수 있을까요?"
+      },
+      {
+        "speaker": "A",
+        "en": "I already tried. It didn't work.",
+        "ko": "이미 해 봤는데, 안 되더라고요."
+      },
+      {
+        "speaker": "B",
+        "en": "OK. Let me move you to another seat.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "didn't ~ ~하지 않았다",
+      "Let me ~. ~할게요"
+    ],
+    "practice": [
+      "1. 그게 켜졌니?",
+      "2. 절 기다려 주실 수 있을까요?",
+      "3. 우린 그걸 몰랐어.",
+      "4. 내가 너에게 다시 전화할게."
+    ]
+  },
+  "DAY 006": {
+    "title": "비디오 게임의 조건",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Mom, can I play a video game?",
+        "ko": "엄마, 비디오 게임 해도 돼요?"
+      },
+      {
+        "speaker": "B",
+        "en": "Did you finish your homework?",
+        "ko": "숙제 마쳤니?"
+      },
+      {
+        "speaker": "A",
+        "en": "I'm almost done with it.",
+        "ko": "숙제 거의 다 마쳤어요."
+      },
+      {
+        "speaker": "B",
+        "en": "You can't play it until you're done.",
+        "ko": "다 마칠 때까진 하면 안 돼."
+      }
+    ],
+    "patterns": [
+      "Can I ~? : 저 ~해도 돼요?",
+      "Did you ~? : 너~했어?",
+      "be done + with ~ ~를 다 마치다",
+      "until ~ ~일 때까지"
+    ],
+    "practice": [
+      "1. 저 여기 머물러도 돼요?",
+      "2. 너 울었어?",
+      "3. 그녀는 그녀의 숙제를 다 마쳤어.",
+      "4. 내가 돌아올 때까지 계속 걸어."
+    ]
+  },
+  "DAY 007": {
+    "title": "여름방학은 왜 이리 짧니",
+    "dialogue": [
+      {
+        "speaker": "AI",
+        "en": "can't believe the summer break is over.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Gosh, I'm so depressed now.",
+        "ko": "어휴, 나 지금 엄청 우울해."
+      },
+      {
+        "speaker": "A",
+        "en": "So am I.",
+        "ko": "나도 그래."
+      },
+      {
+        "speaker": "A",
+        "en": "I am happy.",
+        "ko": "/ B: So am I. A: 난 행복해. / B: 나도 그래."
+      },
+      {
+        "speaker": "A",
+        "en": "I am sleepy.",
+        "ko": "/ B: So am I. A: 난 졸려. / B: 나도 그래."
+      },
+      {
+        "speaker": "B",
+        "en": "I should go home and get ready for school.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "I can't believe+ ~. ~이라니 믿을 수가 없네.",
+      "get ready + for ~ ~에 대해 준비하다"
+    ],
+    "practice": [
+      "1. 이게 버터라니 믿을 수가 없네.",
+      "2. 어휴, 나 엄청 짜증 나.",
+      "3. A: 난 슬퍼. / B: 나도 그래.",
+      "4. 일에 대해 준비하자. (출근 준비하자.)"
+    ]
+  },
+  "DAY 008": {
+    "title": "열 살 정도면 이런 선물 괜찮지",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I'm looking for a gift for my niece.",
+        "ko": "여자 조카를 위한 선물을 찾고 있는데요."
+      },
+      {
+        "speaker": "B",
+        "en": "How old is she?",
+        "ko": "조카가 몇 살이죠?"
+      },
+      {
+        "speaker": "A",
+        "en": "She's",
+        "ko": "10. She doesn't like dolls though."
+      },
+      {
+        "speaker": "B",
+        "en": ".",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "look+ for ~ ~를 찾다",
+      "How old is/are ~? ~는 몇 살이야?",
+      "I don't like carrots though. : 그렇지만 난 당근은 안 좋아해.",
+      "get ~+~ ~에게 ~를 사 주다"
+    ],
+    "practice": [
+      "1. 전 친구를 찾고 있어요.",
+      "2. 네 여자 조카는 몇 살이야?",
+      "3. 그렇지만 그는 날 안 좋아해.",
+      "4. 그녀에게 꽃을 사 줘."
+    ]
+  },
+  "DAY 009": {
+    "title": "정말 괜찮은 걸까?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Aren't you going home?",
+        "ko": "자네 집에 안가?"
+      },
+      {
+        "speaker": "B",
+        "en": "I can't. I have to finish this report.",
+        "ko": "못 가. 이 보고서 마쳐야 돼."
+      },
+      {
+        "speaker": "A",
+        "en": "Isn't it your wife's birthday today?",
+        "ko": "오늘 자네 아내 생일 아니야?"
+      },
+      {
+        "speaker": "B",
+        "en": "It is. She said it's okay.",
+        "ko": "맞아. 아내가 괜찮다고 했어."
+      }
+    ],
+    "patterns": [
+      "Aren't you (~ing)? : 너 (~ing) 안해? / (~ing)하지 않아?",
+      "have to ~ ~해야만 한다",
+      "Isn't it ~? ~ : 아니야?",
+      "~ said + ~, ~가 평서문)이라고 했어."
+    ],
+    "practice": [
+      "1. 당신 곧 은퇴하지 않아요?",
+      "2. 나 집에 가야 돼.",
+      "3. 오늘 수요일 아니야?",
+      "4. Peter가 괜찮다고 했어요."
+    ]
+  },
+  "DAY 010": {
+    "title": "위급 상황에 도와준 경찰",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Can you please take us to the hospital?",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "What's wrong, ma'am?",
+        "ko": "무슨 문제죠, 부인?"
+      },
+      {
+        "speaker": "A",
+        "en": "My daughter has a high fever.",
+        "ko": "딸아이가 고열이 있어요."
+      },
+      {
+        "speaker": "B",
+        "en": "Get in! I'll take you there.",
+        "ko": "타세요! 거기 데려다드릴게요."
+      }
+    ],
+    "patterns": [
+      "take ~ + to ~ ~를 ~에 데려가다",
+      "What's ~? : 뭐가 ~하죠?",
+      "I have a fever. : 나 열이 있어."
+    ],
+    "practice": [
+      "1. 우리를 그 호텔에 데려다줘.",
+      "2. 뭐가 잘못됐죠(무슨 문제죠), 선생님?",
+      "3. 내 아들이 열이 있어.",
+      "4. 거기로 가자."
+    ]
+  },
+  "DAY 011": {
+    "title": "미국으로 돌아가는 친구",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Is everything okay? You look so down.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Mayu is going back to America.",
+        "ko": "마유가 미국으로 돌아가요."
+      },
+      {
+        "speaker": "A",
+        "en": "Oh, no. You mean your best friend Mayu?",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Yeah... His whole family is moving back.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "look ~ ~해 보이다",
+      "go back + to ~ ~로 돌아가다",
+      "You mean ~? ~ : 말이니?",
+      "be (~ing) (~ing)해 (확정된 미래 사실)"
+    ],
+    "practice": [
+      "1. 너 오늘 귀여워 보여.",
+      "2. 그는 캐나다로 돌아갔어.",
+      "3. 그 수줍은 여자애 말이니?",
+      "4. 우리 내일 LA에 가."
+    ]
+  },
+  "DAY 012": {
+    "title": "외국인 친구 이름 지어주기 I",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Do you have a Korean name?",
+        "ko": "너 한국어 이름 있어?"
+      },
+      {
+        "speaker": "B",
+        "en": "My friends call me Bongpal.",
+        "ko": "친구들이 날 봉팔이라고 불러."
+      },
+      {
+        "speaker": "A",
+        "en": "It's a good name, but it doesn't suit you.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Give me some recommendations, then.",
+        "ko": "그럼 추천을 좀 해 줘."
+      }
+    ],
+    "patterns": [
+      "Do you have ~? : 너 ~ 있어?",
+      "call ~ + ~ ~를 ~라고 부르다",
+      "suit ~ ~에게 어울리다"
+    ],
+    "practice": [
+      "1. 너 일본어 이름 있어?",
+      "2. 난 걔를 Tony라고 불러.",
+      "3. 그건 그녀에게 어울려.",
+      "4. 그럼 같이 공부하자."
+    ]
+  },
+  "DAY 013": {
+    "title": "꼭 원하는 셔츠는 없더라 [직업]",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I love this shirt! I'll take two.",
+        "ko": "이 셔츠 엄청 마음에 드네요! 두 개 살게요."
+      },
+      {
+        "speaker": "B",
+        "en": "I'm sorry. That's the last one we have.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Do you have anything similar?",
+        "ko": "비슷한 거 뭐라도 있나요?"
+      },
+      {
+        "speaker": "B",
+        "en": "We have shirts with a teddy bear print.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "I will take (숫자). (숫자) 개를 살게요.",
+      "the last ~ : 마지막 ~",
+      "anything ~ ~한 무엇이라도",
+      "with ~ ~가 있는/ ~를 가진"
+    ],
+    "practice": [
+      "1. 다섯 개 살게요.",
+      "2. 오늘이 마지막 날이야.",
+      "3. 매운 거 뭐라도 있나요?",
+      "4. 저희는 싱글 사이즈 침대가 있는 방이 있어요. EBS"
+    ]
+  },
+  "DAY 014": {
+    "title": "절대 웃지 않는 그녀",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I don't think Ashley likes me. Ashley",
+        "ko": "가 날 좋아하는 게 아닌 것 같아."
+      },
+      {
+        "speaker": "B",
+        "en": "Why do you say that?",
+        "ko": "왜 그런 말을 해?"
+      },
+      {
+        "speaker": "A",
+        "en": "She never smiles when she's with me.",
+        "ko": "나랑 있을 때 절대 웃질 않아."
+      },
+      {
+        "speaker": "B",
+        "en": "Maybe she has personal problems.",
+        "ko": "개인적인 문제가 있을지도 모르지."
+      }
+    ],
+    "patterns": [
+      "I don't think + ~. : 난 ~이라고 생각하지 않아. / ~이 아닌 거 같아.",
+      "Why ~? : 왜 ~이야?",
+      "never ~ : 절대 ~하지 않다",
+      "Maybe ~. ~일지도 모르지."
+    ],
+    "practice": [
+      "1. 난 네가 수줍다고 생각하지 않아.",
+      "2. 넌 왜 화가 나 있니?",
+      "3. 그는 절대 한국어를 공부하지 않아.",
+      "4. 그녀가 모든 걸 알지도 모르지."
+    ]
+  },
+  "DAY 015": {
+    "title": "갑자기 바뀐 공항 게이트",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "You're at the wrong gate, sir.",
+        "ko": "엉뚱한 게이트에 계시네요, 선생님."
+      },
+      {
+        "speaker": "B",
+        "en": "Huh? Isn't this the gate for Mayu Air",
+        "ko": "1234?"
+      },
+      {
+        "speaker": "A",
+        "en": "You have to go to Gate",
+        "ko": "5. 게이트 5번으로 가셔야 합니다."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, I'd better hurry. Thanks!",
+        "ko": "오, 서두르는 게 좋겠네요. 고마워요!"
+      }
+    ],
+    "patterns": [
+      "at ~ ~에서",
+      "Isn't this ~? : 여기 ~ 아니에요?",
+      "have to ~ ~해야만 한다",
+      "had better ~ ~하는 게 좋을 것이다"
+    ],
+    "practice": [
+      "1. 나 은행에 있어.",
+      "2. 여기 10번 게이트 아니에요?",
+      "3. 나 곧 이사 나가야 돼.",
+      "4. 너 달리는 게 좋을 거야!"
+    ]
+  },
+  "DAY 016": {
+    "title": "아기들이 울 땐 이유가 있다",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Honey, Mayu won't stop crying.",
+        "ko": "여보, 마유가 우는 걸 멈출 생각을 안 해요."
+      },
+      {
+        "speaker": "B",
+        "en": "Did you change his diaper?",
+        "ko": "기저귀 갈아줬어요?"
+      },
+      {
+        "speaker": "A",
+        "en": "I did. I even fed him.",
+        "ko": "갈았어요. 맘마도 줬는데."
+      },
+      {
+        "speaker": "B",
+        "en": "Let's check if he has a fever.",
+        "ko": "열이 있는지 확인해 봅시다."
+      }
+    ],
+    "patterns": [
+      "won't ~ ~할 생각을 안 하다",
+      "Did you ~? : 너 ~했어?",
+      "even : 심지어 ~도",
+      "if ~ ~인지"
+    ],
+    "practice": [
+      "1. 그녀가 문을 열 생각을 안 해.",
+      "2. 너 점심 먹었어?",
+      "3. 난 심지어 그의 기저귀도 갈아 줬어.",
+      "4. 내가 현금이 있는지 볼게."
+    ]
+  },
+  "DAY 017": {
+    "title": "외국인 친구 이름 지어주기Ⅱ 일상",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "How about Hajoon? It's a good name.",
+        "ko": "하준이는 어때? 괜찮은 이름인데."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, I love it! It sounds so unique!",
+        "ko": "오, 엄청 좋아! 아주 독특한 거 같아!"
+      },
+      {
+        "speaker": "A",
+        "en": "You know what? I changed my mind.",
+        "ko": "있잖아. 마음이 바뀌었어."
+      },
+      {
+        "speaker": "B",
+        "en": "It's too late. From now on, call me Hajoon Bint.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "How about ~? ~는 어때?",
+      "sound ~ (들어 보니) ~한 것 같다",
+      "change one's mind : 마음을 바꾸다 (마음이 바뀌다)",
+      "너무 늦었어. 이제부턴 날 하준 Bint라고 불러."
+    ],
+    "practice": [
+      "1. 지금은 어때?",
+      "2. 그거 (들어 보니) 흥미로운 거 같아.",
+      "3. 너 마음이 바뀌었니?",
+      "4. 이제부터, 우린 친구야."
+    ]
+  },
+  "DAY 018": {
+    "title": "선택적 남은 음식 포장",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I'd like to take these to go.",
+        "ko": "이것들 포장해 가고 싶은데요."
+      },
+      {
+        "speaker": "B",
+        "en": "You can take the burger, but we don't have a container",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "That's fine. I just want the burger.",
+        "ko": "괜찮아요. 그냥 버거면 돼요."
+      },
+      {
+        "speaker": "B",
+        "en": "I'll be back with a box, then.",
+        "ko": "그럼 상자를 가지고 돌아올게요."
+      }
+    ],
+    "patterns": [
+      "take ~ to go ~를 포장해 가다",
+      "for the soup. : 버거는 가져가셔도 되는데, 수프용 용기는 없어요.",
+      "just want ~ ~만 있으면 된다",
+      "I will be back soon. : 금방 돌아올게."
+    ],
+    "practice": [
+      "1. 이것들을 포장해 가고 싶으신가요?",
+      "2. 전 한국인이지만, 영어를 해요.",
+      "3. 난 그 면만 있으면 돼.",
+      "4. 난 내일 돌아올 거야."
+    ]
+  },
+  "DAY 019": {
+    "title": "오늘은 과장님 심기 건드리지 마",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "What's up with the boss?",
+        "ko": "과장님 왜 저러셔?"
+      },
+      {
+        "speaker": "B",
+        "en": "She's in a bad mood.",
+        "ko": "기분이 안 좋으셔"
+      },
+      {
+        "speaker": "A",
+        "en": "Is it because of us?",
+        "ko": "우리 때문이야?"
+      },
+      {
+        "speaker": "B",
+        "en": "No, it's because she didn't get a promotion.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "What's up + with ~? ~는 왜 저러는 거야? / ~에게 무슨 문제가"
+    ],
+    "practice": [
+      "1. 너의 언니는 왜 저러는 거야?",
+      "2. 그들은 기분이 안 좋아.",
+      "3. 그건 그녀 때문이야.",
+      "4. Peter가 승진했어."
+    ]
+  },
+  "DAY 020": {
+    "title": "잠겨 있는 비행기 화장실",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Is someone using the toilet?",
+        "ko": "누가 화장실 쓰고 있는 건가요?"
+      },
+      {
+        "speaker": "B",
+        "en": "I think so. It says 'occupied'.",
+        "ko": "그런 거 같은데요. '사용 중'이라고 되어 있네요."
+      },
+      {
+        "speaker": "A",
+        "en": "Well, it's been like that for a while.",
+        "ko": "음, 한동안 그렇게 되어 있는데요."
+      },
+      {
+        "speaker": "B",
+        "en": "All right. Let me check.",
+        "ko": "알겠습니다. 확인해 볼게요."
+      }
+    ],
+    "patterns": [
+      "be (~ing) (~ing)하고 있다",
+      "It says~. ~라고 되어/써 있다.",
+      "like ~ ~ : 같은",
+      "Let me ~. ~할게요."
+    ],
+    "practice": [
+      "1. 누군가 이 프린터를 쓰고 계신가요?",
+      "2. '한국'이라고 되어 있어.",
+      "3. 저희는 그것 같지 않아요. (저희는 안 그래요.)",
+      "4. 제가 당신에게 (나중에) 다시 전화할게요."
+    ]
+  },
+  "DAY 021": {
+    "title": "상자는 미리 버리는 거 아니야",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Honey, I think we need a smaller stroller.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "This doesn't fit in the trunk.",
+        "ko": "이건 트렁크에 안 맞네."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, not . I ao",
+        "ko": "(lre명)ahd (y t명)h를r ewur 버ou버t the 사ob리o사x. t오렸, 이w런다. 벌써 상자"
+      },
+      {
+        "speaker": "B",
+        "en": "I hope we can get a refund.",
+        "ko": "환불 받을 수 있으면 좋겠네."
+      }
+    ],
+    "patterns": [
+      "I think + ~, : 닌 ~이라고 생각해. / ~인 것 같아.",
+      "fit+ in ~ ~에 크기가 맞다/들어가다",
+      "I threw it out already. : 나 그거 벌써 버렸어."
+    ],
+    "practice": [
+      "1. 난 네가 나보다 더 똑똑하다고 생각해.",
+      "2. 그 의자는 트렁크에 안 맞아.",
+      "3. 너 왜 그걸 버렸니?",
+      "4. 내일 눈이 안 오면 좋겠네."
+    ]
+  },
+  "DAY 022": {
+    "title": "제발좀 열심히 공부하자",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Gosh, I bombed the physics test again.",
+        "ko": "휴, 물리 시험 또 망쳤네."
+      },
+      {
+        "speaker": "B",
+        "en": "You always slack off, man.",
+        "ko": "넌 항상 게으름 피우잖아, 야."
+      },
+      {
+        "speaker": "A",
+        "en": "I know. I was too lazy.",
+        "ko": "알아. 내가 너무 게을렀어."
+      }
+    ],
+    "patterns": [
+      "bomb ~ ~를 망치다"
+    ],
+    "practice": [
+      "1. 나 그 수학 시험 또 망쳤어.",
+      "2. 우리 Peter한테 물어봤어야 했어.",
+      "3. 넌 왜 항상 게으름을 피우니?",
+      "4. 우린 너무 지루했어."
+    ]
+  },
+  "DAY 023": {
+    "title": "유모차도 종류가 다양하다",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Is this a good stroller for a",
+        "ko": "6-month-old?"
+      },
+      {
+        "speaker": "B",
+        "en": "Yes, but it's a little bit heavy.",
+        "ko": "그렇긴 한데 약간 무겁습니다."
+      },
+      {
+        "speaker": "A",
+        "en": "Hmm. I'm looking for a portable stroller so...",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Go for this one. It only weighs",
+        "ko": "10 pounds."
+      }
+    ],
+    "patterns": [
+      "a (숫자)-month-old (숫자)개월 된 아이",
+      "a little bit ~ : 약간 ~한",
+      "look + for ~~를 찾다",
+      "go + for ~ ~를 선택하다"
+    ],
+    "practice": [
+      "1. 저희는 5개월 된 아이가 있어요.",
+      "2. 그건 약간 헷갈려.",
+      "3. 저희는 중고 트럭을 찾고 있어요.",
+      "4. 이걸로 (선택)하고 싶으신가요?"
+    ]
+  },
+  "DAY 024": {
+    "title": "나 기억력 좋거든?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "It's your turn to buy lunch today.",
+        "ko": "오늘 네가 점심 살 차례야."
+      },
+      {
+        "speaker": "B",
+        "en": "But I paid last time...",
+        "ko": "그렇지만 지난번에 내가 냈잖아.."
+      },
+      {
+        "speaker": "B",
+        "en": "I bought you lunch because it was your birthday. Remember?",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Oh, yeah. That's true. My bad.",
+        "ko": "아, 그렇지. 맞네. 내 실수."
+      }
+    ],
+    "patterns": [
+      "It's your turn + to ~. : 네가 ~할 차례야.",
+      "I picked up the bill last time. : 내가 지난번에 밥값을 냈어.",
+      "because ~ ~이라서/이니까/이기 때문에"
+    ],
+    "practice": [
+      "1. 네가 요리할 차례야.",
+      "2. 우리 지난번에 동물원에 갔어.",
+      "3. 마유가 내 선생님이라서 기뻐.",
+      "4. 내 실수!"
+    ]
+  },
+  "DAY 025": {
+    "title": "멕시코 국경 넘어가기",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Dolneed my passport to visit Mexico?",
+        "ko": ""
+      },
+      {
+        "speaker": "BYes,",
+        "en": "you need it to cross the border.",
+        "ko": "네, 국경을 넘기 위해 필요합니다."
+      },
+      {
+        "speaker": "B",
+        "en": "There is tight security.",
+        "ko": "보안이 철저하거든요."
+      },
+      {
+        "speaker": "A",
+        "en": "Thank goodness I asked.",
+        "ko": "여쭤봐서 참 다행이네요."
+      }
+    ],
+    "patterns": [
+      "to ~ ~하기 위해/하려면",
+      "cross ~ ~를 건너다/넘다",
+      "There is/are ~. ~가 있다.",
+      "Thank goodness+ ~. ~이라 참 다행이다."
+    ],
+    "practice": [
+      "1. 너 캐나다 방문하려면 네 여권이 필요해.",
+      "2. 그 다리를 건너자.",
+      "3. 여기 뭔가 있어.",
+      "4. 네가 여기 있어서 참 다행이다."
+    ]
+  },
+  "DAY 026": {
+    "title": "군 복무 중인 아들아, 힘내!",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "When did your son join the army?",
+        "ko": "아들이 언제 군 입대했지?"
+      },
+      {
+        "speaker": "B",
+        "en": "It's been",
+        "ko": "6 months. 6개월 됐지."
+      },
+      {
+        "speaker": "A",
+        "en": "You must really miss him.",
+        "ko": "진짜 보고 싶겠네."
+      },
+      {
+        "speaker": "B",
+        "en": "I do. I hope he comes back safely.",
+        "ko": "그렇지. 안전하게 돌아오면 좋겠어."
+      }
+    ],
+    "patterns": [
+      "Andy joined the army 6 months ago. Andy는 6개월 전에 군 입대했어.",
+      "must ~ : 분명히 ~할 것이다",
+      "I hope + ~. ~이면 좋겠어. / ~이길 바라."
+    ],
+    "practice": [
+      "1. 그는 지난주에 군 입대했어.",
+      "2. 3주가 됐어(지났어).",
+      "3. 당신은 (분명) 당신의 딸이 보고 싶겠네요.",
+      "4. 그들이 내게 전화하면 좋겠어. E B"
+    ]
+  },
+  "DAY 027": {
+    "title": "스쿨존에선 더 조심하라고",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Look out! There's a child!",
+        "ko": "조심해! 아이가 있어!"
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, I almost didn't see him.",
+        "ko": "오, 못 볼 뻔했네."
+      },
+      {
+        "speaker": "A",
+        "en": "Be careful, man. It's a school zone.",
+        "ko": "조심해, 야, 스쿨존이잖아."
+      },
+      {
+        "speaker": "B",
+        "en": "I know. I should slow down.",
+        "ko": "알아. 속도 줄여야겠어."
+      }
+    ],
+    "patterns": [
+      "Be ~. ~해,",
+      "should ~ ~해야겠다하는 게 좋겠다"
+    ],
+    "practice": [
+      "1. 조심해! 벽이 있어!",
+      "2. 나 넘어질 뻔했어.",
+      "3. 친절하도록 해. (친절하게 행동해.)",
+      "4. 나 살 빼야겠어."
+    ]
+  },
+  "DAY 028": {
+    "title": "이래봬도 모델입니다 직업",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Wow, you have a great sense of style!",
+        "ko": "와, 스타일 감각 아주 좋으시네요!"
+      },
+      {
+        "speaker": "B",
+        "en": "I get that a lot. I'm a fashion model.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Really? But you're not that tall.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Well, I'm a hand model.",
+        "ko": "음, 손 모델입니다."
+      }
+    ],
+    "patterns": [
+      "a sense of ~ ~ : 감각",
+      "I ate a lot. : 나 많이 먹었어.",
+      "that ~ : 그렇게 ~한",
+      "be ~ ~이다"
+    ],
+    "practice": [
+      "1. 내 여자 친구는 스타일 감각이 좋아.",
+      "2. 우린 많이 웃었어.",
+      "3. 그건 그렇게 작지는 않아.",
+      "4. 저희는 그의 부모입니다."
+    ]
+  },
+  "DAY 029": {
+    "title": "아기랑 놀아주기로 했잖아",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Aren't you going to play with Mayu?",
+        "ko": "마유랑 안 놀아 줄 거야?"
+      },
+      {
+        "speaker": "B",
+        "en": "I can't. I have work to do.",
+        "ko": "못 놀아 줘. 할 일이 있어."
+      },
+      {
+        "speaker": "A",
+        "en": "But you promised. He needs you.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Right. I'll just do work later.",
+        "ko": "그래. 그냥 일은 나중에 할게."
+      }
+    ],
+    "patterns": [
+      "Aren't you going to ~? : 너 ~ 안 할 거야?",
+      "have work to do : 할 일이 있다.",
+      "need ~ ~가 필요하다",
+      "I will see you later. : 나중에 보자."
+    ],
+    "practice": [
+      "1. 너 자동차 안 살 거야?",
+      "2. 그들은 할 일이 있어.",
+      "3. 우린 더 많은 사랑이 필요해.",
+      "4. 나중에 얘기하자."
+    ]
+  },
+  "DAY 030": {
+    "title": "긴 비행의 지루함을 달래려면 여행",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "It's going to be a long flight.",
+        "ko": "긴 비행이 될 거야."
+      },
+      {
+        "speaker": "B",
+        "en": "Is there Wi",
+        "ko": "-Fi on the plane? 비행기에 와이파이 되나?"
+      },
+      {
+        "speaker": "A",
+        "en": "I'm not sure. We can ask the flight attendants.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Let's buy some magazines just in case.",
+        "ko": "혹시 모르니까 잡지 몇 개 사자."
+      }
+    ],
+    "patterns": [
+      "It's going to be ~, ~가 될 거야.",
+      "Is/Are there ~? ~가 있나요?",
+      "ask ~ ~에게 물어보다",
+      "TIa ke this bu mbrt erllaj juoi sht in가uc u.ca se혹.i a g혹s시n 몰모 져sh르니이시s 라t까 가et이거 서우져왔.산어"
+    ],
+    "practice": [
+      "1. 긴 여정이 될 거야.",
+      "2. 거실에 TV가 있나요?",
+      "3. 그냥 마유한테 물어봐.",
+      "4. 혹시 모르니까 내 신용 카드를 가져가."
+    ]
+  },
+  "DAY 031": {
+    "title": "형의 고통은 나의 기쁨",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Uh oh. You're in trouble.",
+        "ko": "이런 형 큰일 났다."
+      },
+      {
+        "speaker": "B",
+        "en": "Did I do something wrong?",
+        "ko": "내가 뭔가 잘못했어?"
+      },
+      {
+        "speaker": "A",
+        "en": "You lied to Mom, and she found out.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, no. I will be grounded.",
+        "ko": "오, 이런. 나 외출 금지당할"
+      }
+    ],
+    "patterns": [
+      "I am in trouble. : 나 큰일 났어.",
+      "something ~ : 뭔가 ~한 것",
+      "lie + to ~ ~에게 거짓말하다",
+      "당할 것이다 / (p.p.)될 것이다"
+    ],
+    "practice": [
+      "1. 우리 큰일 났어.",
+      "2. 너 뭔가 매운 걸 원하니?",
+      "3. 너 나한테 거짓말했어?",
+      "4. 넌 사랑받을 거야. EBS"
+    ]
+  },
+  "DAY 032": {
+    "title": "영국에서 온 친구 Peter",
+    "dialogue": [],
+    "patterns": [],
+    "practice": [
+      "1. 우린 시드니로 여행을 갔어. We went on a",
+      "2. 저희 여기 엄청 마음에 들어요.",
+      "3. 저 미국에서 왔어요.",
+      "4. 난 그가 그립지 않아."
+    ]
+  },
+  "DAY 033": {
+    "title": "공포의 치과 I",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "My teeth hurt so much.",
+        "ko": "이가 엄청 아파요."
+      },
+      {
+        "speaker": "B",
+        "en": "Let me check. Open your mouth and say",
+        "ko": "“Ah.”"
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, wow. You have so many cavities.",
+        "ko": "오, 우와. 충치가 엄청 많네요."
+      },
+      {
+        "speaker": "A",
+        "en": "But I brush my teeth every day...",
+        "ko": "그렇지만 저 매일 이 닦는데요…"
+      }
+    ],
+    "patterns": [
+      "many (복수명사) 많은 (복수명사)",
+      "I brushed my teeth. : 나 이 닦았어."
+    ],
+    "practice": [
+      "1. 내 다리가 아파.",
+      "2. 다리를 움직이세요.",
+      "3. 우린 문제가 많아.",
+      "4. 그녀는 이를 닦고 있어."
+    ]
+  },
+  "DAY 034": {
+    "title": "퇴직하는 과장님",
+    "dialogue": [],
+    "patterns": [],
+    "practice": [
+      "1. 너 부모님 찾아봤니?",
+      "2. 그는 엄청 대단한 의사야.",
+      "3. 그녀가 여기 유일한 간호사예요.",
+      "4. 오늘 밤에 한잔하자."
+    ]
+  },
+  "DAY 035": {
+    "title": "다운타운에서 벼룩시장 구경",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Is there a flea market around here?",
+        "ko": "이 근처에 벼룩시장 있나요?"
+      },
+      {
+        "speaker": "B",
+        "en": "There's one between",
+        "ko": "3rd Street and 7th Avenue."
+      },
+      {
+        "speaker": "A",
+        "en": "Oh, it's not that far!",
+        "ko": "오, 그렇게 멀진 않네요!"
+      },
+      {
+        "speaker": "B",
+        "en": "You'll see an alley next to Mayu Pharmacy.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "that ~ : 그렇게 ~한",
+      "next to ~ ~의 옆에"
+    ],
+    "practice": [
+      "1. 이 근처에 우체국이 있어.",
+      "2. 5번가하고 6번가 사이에 약국이 있어.",
+      "3. 오늘은 그렇게 덥지는 않아.",
+      "4. 그녀가 내 옆에 앉아 있어."
+    ]
+  },
+  "DAY 036": {
+    "title": "엄마를 닮아 약간 다행이다",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Wow, your son looks exactly like his mom.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Is that a compliment?",
+        "ko": "그거 칭찬이야?"
+      },
+      {
+        "speaker": "A",
+        "en": "Maybe. His nose looks like yours though.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Well, I can't deny that.",
+        "ko": "뭐, 그건 부인할 수 없지."
+      }
+    ],
+    "patterns": [
+      "look + like ~ ~와 닮다",
+      "Is that ~? : 그거 ~야?",
+      "I like the story though. : 그래도 스토리는 마음에 드네.",
+      "can't ~ ~할 수 없다"
+    ],
+    "practice": [
+      "1. 넌 너의 형이랑 닮았어.",
+      "2. 그거 거짓말이야?",
+      "3. 난 그래도 그 색이 마음에 들어.",
+      "4. 우린 포기할 수 없어."
+    ]
+  },
+  "DAY 037": {
+    "title": "투자 공부도 좀 해야겠어",
+    "dialogue": [],
+    "patterns": [],
+    "practice": [
+      "1. 너 AI에 대해 좀 알아?",
+      "2. 그들은 우리에게 투자했어.",
+      "3. 난 고음으로 노래하는 법을 배웠어.",
+      "4. 난 한국인이지만 피자를 사랑해."
+    ]
+  },
+  "DAY 038": {
+    "title": "공포의 치과Ⅱ",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Bad news. You have wisdom teeth as well.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "What does it mean?",
+        "ko": "그게 뭘 의미하죠?"
+      },
+      {
+        "speaker": "A",
+        "en": "It means we need to pull them out.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, no. I'm so scared!",
+        "ko": "오, 이런. 너무 무서워요!"
+      }
+    ],
+    "patterns": [
+      "as well : 또한, ~도",
+      "What does ~ mean? ~가 뭘 의미하죠? / ~가 무슨 뜻이죠?",
+      "It means ~. : 그 말은 ~이라는 겁니다.",
+      "so ~ : 엄청 ~한"
+    ],
+    "practice": [
+      "1. 전 돼지고기도 좋아해요.",
+      "2. 'lion'이 무슨 뜻이죠?",
+      "3. 그 말은 네가 인기 있다는 거야.",
+      "4. 내 남동생은 엄청 게을러."
+    ]
+  },
+  "DAY 039": {
+    "title": "차일만했네",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Why did you dump your boyfriend?",
+        "ko": "왜 남자친구를 차버린 거야?"
+      },
+      {
+        "speaker": "B",
+        "en": "He called me by someone else's name.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Maybe it was a mistake.",
+        "ko": "실수였는지도 모르지."
+      },
+      {
+        "speaker": "B",
+        "en": "Well, it was his ex's name.",
+        "ko": "뭐, 자기 전 여자 친구 이름이었다는 거."
+      }
+    ],
+    "patterns": [
+      "Why ~? : 왜 ~이야?",
+      "call ~ + by ~ ~를 ~로 부르다",
+      "Maybe ~. ~인지도 모르지."
+    ],
+    "practice": [
+      "1. 너 왜 나한테 전화했어?",
+      "2. 우리 할머니는 날 내 별명으로 부르셔.",
+      "3. 그가 널 싫어하는지도 모르지.",
+      "4. 뭐, 난배안고파."
+    ]
+  },
+  "DAY 040": {
+    "title": "놀이공원 갈 땐 아이가 되고파",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "We have two adults and a",
+        "ko": "5-year-old."
+      },
+      {
+        "speaker": "A",
+        "en": "How much is the admission?",
+        "ko": "입장료 얼마인가요?"
+      },
+      {
+        "speaker": "B",
+        "en": "It's",
+        "ko": "$10 for adults and $5 for children."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, he's only",
+        "ko": "5. He can get in for free."
+      }
+    ],
+    "patterns": [
+      "a (숫자)-year-old (숫자)살 된 사람",
+      "How much is/are ~? ~가 얼마인가요?",
+      "It's (가격) for ~. ~는 (가격)입니다.",
+      "I am learning English for free. : 난 영어를 무료로 배우고 있어."
+    ],
+    "practice": [
+      "1. 저희는 두 살 된 아이가 있어요.",
+      "2. 이 양말들은 얼마죠?",
+      "3. 성인은 50달러입니다.",
+      "4. 저 무료로 들어갈 수 있나요?"
+    ]
+  },
+  "DAY 041": {
+    "title": "아이 용돈은 어떻게 줄까?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Do you get allowance from your mom?",
+        "ko": "너 엄마한테서 용돈 받아?"
+      },
+      {
+        "speaker": "B",
+        "en": "Yeah, she gives me",
+        "ko": "$1 every day. 어, 엄마가 매일 1달러씩 주셔."
+      },
+      {
+        "speaker": "B",
+        "en": "Does your mom give you allowance, too?",
+        "ko": "너희 엄마도 용돈 주셔?"
+      },
+      {
+        "speaker": "A",
+        "en": "Yeah, she gives me",
+        "ko": "$2 every other day."
+      }
+    ],
+    "patterns": [
+      "get allowance + from ~ ~에게서 용돈을 받다",
+      "I go to the gym every day. : 난 매일 체육관에 가",
+      "too : 또한, ~도",
+      "I get $5 every other day. 난 격일로 5달러를 받아."
+    ],
+    "practice": [
+      "1. 난 우리 이모한테서 용돈을 받아.",
+      "2. 우린 매일 영어를 공부해.",
+      "3. 나도 캘리포니아에 살아.",
+      "4. Perry는 격일로 20달러를 받아."
+    ]
+  },
+  "DAY 042": {
+    "title": "어떻게 그게 가능하니?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "What are you posting?",
+        "ko": "너 뭐 올리는 중이야?"
+      },
+      {
+        "speaker": "B",
+        "en": "I'm posting some pictures of me and Angie.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Didn't you break up with her?",
+        "ko": "너 걔랑 헤어지지 않았어?"
+      },
+      {
+        "speaker": "B",
+        "en": "Yeah, but we're still good friends.",
+        "ko": "그렇긴 한데, 우리 여전히 좋은 친구야."
+      }
+    ],
+    "patterns": [
+      "What are you (~ing)? : 넌 뭘 (~ing)하고 있니?",
+      "나랑 Angie 사진 몇 개 올리고 있어.",
+      "Didn't you ~? : 너 ~하지 않았어?"
+    ],
+    "practice": [
+      "1. 넌 뭘 마시고 있니?",
+      "2. 그녀는 우리의 사진들을 찍었어.",
+      "3. 너 컴퓨터 사지 않았어?",
+      "4. 그들은 여전히 친구야."
+    ]
+  },
+  "DAY 043": {
+    "title": "발레파킹을 맡겼더니",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Excuse me. There's a scratch on the bumper.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "I don't think we did that.",
+        "ko": "저희가 한 거 같지 않습니다."
+      },
+      {
+        "speaker": "A",
+        "en": "It wasn't there before I came here.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "LetL mem",
+        "ko": "(che동ck원) .t h(ee s동urv원)ei카l할.ela사n형cet메 사c형am게er라a. 감시 를 확인해 볼게요."
+      }
+    ],
+    "patterns": [
+      "on ~ ~에 (표면에, 위에)",
+      "I don't think + ~. : 난 ~이라고 생각 안 해. / ~이 아닌 것 같아.",
+      "before ~ ~이기 전에"
+    ],
+    "practice": [
+      "1. 문에 스크래치가 있어.",
+      "2. Brian은 대학생이 아닌 거 같아.",
+      "3. 난 여기 오기 전에 점심을 먹었어.",
+      "4. 너한테 오늘 밤에 전화할게."
+    ]
+  },
+  "DAY 044": {
+    "title": "이런 우연이!",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I work for EBS. I work there as a salesman.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, I used to work there, too!",
+        "ko": "오, 저도 거기서 일하곤 했어요!"
+      },
+      {
+        "speaker": "A",
+        "en": "Really? What are the odds?",
+        "ko": "진짜요? 이런 우연이!"
+      },
+      {
+        "speaker": "B",
+        "en": "I worked in the marketing department!",
+        "ko": "전 마케팅 부서에서 일했어요!"
+      }
+    ],
+    "patterns": [
+      "전 EBS에서 일해요. 세일즈맨으로 일하죠.",
+      "used to ~ ~하곤 했다"
+    ],
+    "practice": [
+      "1. 난 손 모델로 일하고 있어.",
+      "2. 우린 시카고에서 살곤 했어.",
+      "3. 이런 우연이!",
+      "4. 그들은 마케팅 부서에서 일해"
+    ]
+  },
+  "DAY 045": {
+    "title": "비행기에서 떨어뜨린 물건",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 046": {
+    "title": "영어에 거부감이 있는 아들",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 047": {
+    "title": "아무튼 넌 식물은 못 키우겠다",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 048": {
+    "title": "대표님을 만나게 되다니 직업",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 049": {
+    "title": "퇴사하는 직장동료",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Today is my last day here, Peter.",
+        "ko": "오늘이 나의 회사 마지막 날이야, Peter."
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, man... I'm going to miss you.",
+        "ko": "오, 이런... 자네가 그리울 거야."
+      },
+      {
+        "speaker": "A",
+        "en": "Thanks for everything. I won't forget.",
+        "ko": "전부 다 고마워. 잊지 않을게."
+      },
+      {
+        "speaker": "B",
+        "en": "Good luck with your new job, buddy.",
+        "ko": "새 직장에서의 행운을 빌게, 친구."
+      }
+    ],
+    "patterns": [
+      "here : 여기에서(의)",
+      "be going to ~ ~할 것이다",
+      "won't ~ ~하지 않을 것이다",
+      "Good luck + with ~. ~에 행운을 빌게"
+    ],
+    "practice": [
+      "1. 오늘이 그의 여기에서의 마지막 날이야.",
+      "2. 우린 곧 이륙할 겁니다.",
+      "3. 난 널 용서하지 않을 거야.",
+      "4. 그 시험에 행운을 빌게"
+    ]
+  },
+  "DAY 050": {
+    "title": "커피숍에서 이름을 말해 보자",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 051": {
+    "title": "아빠는 스마트폰 왕초보",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 052": {
+    "title": "누가 누구한테 겁쟁이래 일상",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 053": {
+    "title": "난 얼어죽어도 아이스야",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 054": {
+    "title": "동호회에서 알게 된 인연",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 055": {
+    "title": "진짜 영웅인 줄 알았네",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Is that Mayu Man from The Heroes?",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Nah, he's just wearing the costume.",
+        "ko": "아니야, 그냥 그 코스튬 입은 거야."
+      },
+      {
+        "speaker": "A",
+        "en": "Should we take some photos with him?",
+        "ko": "같이 사진 좀 찍어야 하나?"
+      },
+      {
+        "speaker": "B",
+        "en": "He's probably going to charge us.",
+        "ko": "아마 우리한테 돈 달라고 할 거야."
+      }
+    ],
+    "patterns": [
+      "from ~ ~에 나오는",
+      "I am probably right. : 내가 아마 맞을 거야."
+    ],
+    "practice": [
+      "1. 당신 Titanic에 나오는 Leo 아니에요?",
+      "2. 아니야, 난 그냥 피곤한 거야.",
+      "3. 우리 그거 지금 주문해야 하나?",
+      "4. 그들은 아마 젊을 거야."
+    ]
+  },
+  "DAY 056": {
+    "title": "장난감에 발이 달렸나?",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 057": {
+    "title": "Peter는 실물이 더 나아",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 058": {
+    "title": "승무원이 되고 싶은 아이",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 059": {
+    "title": "약속에 늦는 것도 한두번이지",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 060": {
+    "title": "나홀로 여행도 괜찮지",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 061": {
+    "title": "아들을 진정시켜 주는 지혜",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 062": {
+    "title": "포메라니안 키우려면 그 정도 희생은",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 063": {
+    "title": "전문 메이크업을 받아보자",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 064": {
+    "title": "좋은 일로 전근 가는 동료",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 065": {
+    "title": "하필 장마철에 놀러 왔네",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 066": {
+    "title": "한밤중의 비명",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 067": {
+    "title": "얼굴에 뻔히 보이는데",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 068": {
+    "title": "한번 입어보기라도 하지",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 069": {
+    "title": "손님이 전부 왕은 아니다 I",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 070": {
+    "title": "다리좀 펴고 비행해 보자",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 071": {
+    "title": "기념일이니 기분 좀 내 볼까?",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 072": {
+    "title": "화재가 발생했습니다",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 073": {
+    "title": "탑승 직전 비행기표를 분실하다",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 074": {
+    "title": "손님이 전부 왕은 아니다Ⅱ",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 075": {
+    "title": "비행기 옆 좌석 탑승객 깨우기",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 076": {
+    "title": "기말고사로 힘든 아들",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 077": {
+    "title": "AI가 있는데 영어를 왜 배워? I",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 078": {
+    "title": "가성비 최고의 의자",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 079": {
+    "title": "어머니 친구와 통화하기 I",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 080": {
+    "title": "비행 중 귀마개가 필요한 이유",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 081": {
+    "title": "회사로 복귀하고 싶은 아내 I",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 082": {
+    "title": "AI가 있는데 영어를 왜 배워? Ⅱ",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 083": {
+    "title": "달걀 프라이가 내 스타일이 아니야",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 084": {
+    "title": "어머니 친구와 통화하기Ⅱ",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 085": {
+    "title": "부부끼리 각자 다른 침대에서 자게 생겼네 Cn",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 086": {
+    "title": "회사로 복귀하고 싶은 아내 Ⅱ 가정",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Hiring a babysitter is expensive though.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Yeah, but we'll have more income.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Yeah, but Mayu will be very lonely.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "I guess it's not an easy decision.",
+        "ko": "쉬운 결정은 아닌 것 같네요."
+      }
+    ],
+    "patterns": [
+      "(~ing) (~ing)하는 것/하기",
+      "more ~ : 더 많은 ~",
+      "will be ~ ~할 것이다",
+      "I guess+ ~. ~인가 보네."
+    ],
+    "practice": []
+  },
+  "DAY 087": {
+    "title": "영",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 088": {
+    "title": "공룡파 아이들과 로봇파 아이들",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 089": {
+    "title": "역시 우리 부장님이 최고야",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 090": {
+    "title": "록펠러 센터의 크리스마스트리",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 091": {
+    "title": "산타할아버지가 전화하셨다",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 092": {
+    "title": "크리스마스 쇼핑은 미친 짓이야",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 093": {
+    "title": "일석이조 장난감",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 094": {
+    "title": "보너스는 아니지만 연말선물",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 095": {
+    "title": "연말 해외여행은 너무 비싸",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 096": {
+    "title": "꽤 건설적인 새해 다짐인데?",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 097": {
+    "title": "2025년에 만나요, 여러분!",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 098": {
+    "title": "입금도 하고 인출도 하고",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 099": {
+    "title": "사과를 하려면 제대로 하라고",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 100": {
+    "title": "Wait downstairs. 아래층에서 기다려.",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I think I dropped my earphones on the plane.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Where did you sit?",
+        "ko": "어디에 앉으셨죠?"
+      },
+      {
+        "speaker": "A",
+        "en": "Seat A",
+        "ko": "23. Can I go in and check?"
+      },
+      {
+        "speaker": "B",
+        "en": "I'll do that. You can wait here.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "I think + ~. : 난 ~이라 생각해. / ~인 거 같아요.",
+      "Where ~? : 어디에/어디에서/어디로 ~이죠?",
+      "좌석 A23번에요. 들어가서 확인해도 되나요?",
+      "You can ~. : 너 ~해도 돼."
+    ],
+    "practice": [
+      "1. 내가 널 사랑하는 거 같아.",
+      "2. 너 어디에서 공부했어?",
+      "3. 제가 안에서 기다려도 돼요?",
+      "4. 안에서 기다리셔도 됩니다."
+    ]
+  },
+  "DAY 101": {
+    "title": "여보, 아이스크림 먹기 싫은가 보지?",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 102": {
+    "title": "Let's study English together. 같이 영어 공부하자.",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Mayu doesn't want to speak English with me.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "He says he feels awkward.",
+        "ko": "어색한 기분이 든다나."
+      },
+      {
+        "speaker": "B",
+        "en": "Why don't we play word games with him?",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Maybe we can sing together, too.",
+        "ko": "같이 노래할 수도 있겠고."
+      }
+    ],
+    "patterns": [
+      "don't/doesn't want to ~ ~하고 싶지 않다",
+      "feel ~ ~한 기분이 들다",
+      "Why don't we ~? : 우리 ~하는 게 어때?",
+      "too ~도, 또한"
+    ],
+    "practice": [
+      "1. 난 미소 짓고 싶지 않아.",
+      "2. 넌 어색한 기분이 들었니?",
+      "3. 우리 체육관에 가는 게 어때?",
+      "4. Frank도 초대해!"
+    ]
+  },
+  "DAY 103": {
+    "title": "판매세가 깡패구만",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 104": {
+    "title": "E B Mayu eats ramyun once a week. 마유는 일주일에 한 번 라면을 먹어.",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Oh, no. The plants are all dead.",
+        "ko": "오, 이런 식물들이 다 죽었네."
+      },
+      {
+        "speaker": "B",
+        "en": "How often do you water them?",
+        "ko": "얼마나 자주 물을 주는데?"
+      },
+      {
+        "speaker": "A",
+        "en": "I water them every single day.",
+        "ko": "나 날마다 물 줘."
+      },
+      {
+        "speaker": "B",
+        "en": "You are supposed to water them only once a week.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "I take a walk every single day. : 나 날마다 산책해.",
+      "be supposed to ~ ~하기로 되어 있다/ ~해야 한다"
+    ],
+    "practice": [
+      "1. 꽃들이 다 죽었네.",
+      "2. 너 얼마나 자주 영어를 공부해?",
+      "3. 난 영어를 날마다 공부해.",
+      "4. 난 출근하기로 되어 있어."
+    ]
+  },
+  "DAY 105": {
+    "title": "jusybug Apngs no op uayo Montpeople are slamolfaul",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 106": {
+    "title": "보",
+    "dialogue": [],
+    "patterns": [],
+    "practice": [
+      "1. 선생님, 그걸 만지시면 안 됩니다.",
+      "2. 그는 한국을 매번 방문해,",
+      "3. 그는 홍콩이 좋다고 하는군.",
+      "4. 우린 열심히 공부하고 있어."
+    ]
+  },
+  "DAY 107": {
+    "title": "굳이 걔를 초대해야 돼?",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 108": {
+    "title": "등만 좀 살살 해 주세요",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 109": {
+    "title": "헤어지고도 이런게 가능해?",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 110": {
+    "title": "You have a unique name! 이름이 독특하네요!",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "May I have your name, sir?",
+        "ko": "성함이 어떻게 되시나요, 선생님?"
+      },
+      {
+        "speaker": "B",
+        "en": "It's Jim, but it's spelled G",
+        "ko": "-Y-M. Jim인데, G-Y-M이라고 철자를 써요."
+      },
+      {
+        "speaker": "B",
+        "en": "I know it's weird but...",
+        "ko": "이상한 건 아는데…"
+      },
+      {
+        "speaker": "A",
+        "en": "No, it's a unique name! I'll call out your name when your",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "May I ~? ~해도 될까요?",
+      "A is spelled B. A는 B라고 철자를 써요.",
+      "I know ~, ~인 걸 안다.",
+      "order is ready. : 아뇨, 독특한 이름인데요! 주문이 준비되면 성함을 부를게요."
+    ],
+    "practice": [
+      "1. 제가 당신의 이메일 주소를 받아도 될까요?",
+      "2. Hope H-O-P-E라고 철자를 써요.",
+      "3. 그녀가 네 여자 친구인 건 알아.",
+      "4. 제 이름을 불러 주실 수 있나요? E B"
+    ]
+  },
+  "DAY 111": {
+    "title": "할아버지는 멋쟁이셨네요",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 112": {
+    "title": "Press the button. 그 버튼을 눌러.",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I need your help with something.",
+        "ko": "아빠 뭐 좀 도와주면 좋겠다."
+      },
+      {
+        "speaker": "B",
+        "en": "What do you need, Dad?",
+        "ko": "뭐가 필요하신데요, 아빠?"
+      },
+      {
+        "speaker": "A",
+        "en": "How do I delete this app?",
+        "ko": "이 앱 어떻게 지우니?"
+      },
+      {
+        "speaker": "B",
+        "en": "Hold down the icon and press delete.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "I need your help + with ~. ~에 대해 네 도움이 필요해.",
+      "What ~? : 무엇을 ~이니?",
+      "How ~? : 어떻게 ~이니?"
+    ],
+    "practice": []
+  },
+  "DAY 113": {
+    "title": "영",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 114": {
+    "title": "Are you John's girlfriend? 네가 John의 여자 친구야?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Did you ask her out on a date?",
+        "ko": "걔한테 데이트 신청했어?"
+      },
+      {
+        "speaker": "B",
+        "en": "No, I didn't have the guts.",
+        "ko": "아니, 배짱이 없었어."
+      },
+      {
+        "speaker": "A",
+        "en": "Come on! Don't be a chicken!",
+        "ko": "왜 이래! 겁쟁이처럼 굴지"
+      },
+      {
+        "speaker": "B",
+        "en": "Well, you don't have a girlfriend, either.",
+        "ko": "뭐, 너도 여자 친구"
+      }
+    ],
+    "patterns": [
+      "ask ~ out + on a date ~에게 데이트를 신청하다",
+      "didn't ~ ~하지 않았다",
+      "Don't be ~. ~가 되지 마.",
+      "either (부정문에서) ~도 (・ ・"
+    ],
+    "practice": [
+      "1. 그녀에게 데이트 신청하지 마.",
+      "2. 난 그 상자를 옮기지 않았어.",
+      "3. 바람둥이가 되지 마.",
+      "4. 저도 여기서 살지 않아요."
+    ]
+  },
+  "DAY 115": {
+    "title": "영",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 116": {
+    "title": "Is that okay? 괜찮아요?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Mr. Gym! Your order's ready! Gym",
+        "ko": "고객님! 주문하신 음료 준비되었습니다!"
+      },
+      {
+        "speaker": "B",
+        "en": "Um... lordered the iced Americano.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "I'm so sorry. Give me just a few minutes.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "That's okay. Take your time.",
+        "ko": "괜찮아요. 천천히 하세요."
+      }
+    ],
+    "patterns": [
+      "be ~ ~하다",
+      "order ~ ~를 주문하다",
+      "a few (복수명사) (복수명사) 몇 개",
+      "take one's time (여유를 가지고) 천천히 하다"
+    ],
+    "practice": [
+      "1. 당신의 샌드위치가 준비되었습니다.",
+      "2. 뭔가 달콤한 걸 주문해.",
+      "3. 나 사람 몇 명 고용했어.",
+      "4. 저 천천히 해도 돼요?"
+    ]
+  },
+  "DAY 117": {
+    "title": "동호회 모임에 못가는 이유",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 118": {
+    "title": "보",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "So, what school did you go to?",
+        "ko": "그래서, 학교는 어디 나오셨어요?"
+      },
+      {
+        "speaker": "B",
+        "en": "I went to Mayu University in New York.",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "No way! I'm a MU graduate, too!",
+        "ko": "말도 안 돼! 저도 마유대 졸업생이에요!"
+      },
+      {
+        "speaker": "B",
+        "en": "What? What a coincidence!",
+        "ko": "네? 이런 우연이!"
+      }
+    ],
+    "patterns": [
+      "What ~ : 무슨 ~",
+      "go to (학교) (학교)에 다니다",
+      "a(n) (학교) graduate (학교) 졸업생"
+    ],
+    "practice": [
+      "1. 넌 무슨 차를 운전해?",
+      "2. 우린 New York University에 다녀.",
+      "3. 난 Peter 대학 졸업생이야.",
+      "4. 이런 우연이! 나도 한국인이야!"
+    ]
+  },
+  "DAY 119": {
+    "title": "영",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 120": {
+    "title": "입국 심사 중 전형적인 질문",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 121": {
+    "title": "imou !! Japio ampinous 'e 'pall sn we'ven'a jouey woly on non lady 어",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 122": {
+    "title": "왜 자네가 부러운거지?",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 123": {
+    "title": "영",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 124": {
+    "title": "Am I lucky? 내가 운이 좋은 건가?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Iran into Peter in Beverly Hills today!",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "You mean, Peter Bint from WCB English?",
+        "ko": ""
+      },
+      {
+        "speaker": "A",
+        "en": "Yeah! He looked better in person!",
+        "ko": "어! 실물이 더 나아 보이더라고!"
+      },
+      {
+        "speaker": "B",
+        "en": "You are so lucky! I want to meet him, too!",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "run + into ~ ~를 마주치다/우연히 만나다",
+      "You mean, ~? ~를 말하는 거야?",
+      "Jim looks better in person. Jim은 실물이 더 나아 보여."
+    ],
+    "practice": [
+      "1. 난 우리 삼촌을 마주쳤어.",
+      "2. 오늘 말하는 거야?",
+      "3. 내 남편은 실물이 더 나아 보여.",
+      "4. 난 마유를 만나 보고 싶어."
+    ]
+  },
+  "DAY 125": {
+    "title": "uossed us oneg stool puegsny Aw's depol 'eau non't 'alpun Aw oqu! ues 어",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 126": {
+    "title": "I need more confidence. 난 자신감이 더 필요해",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I will be a flight attendant like you someday.",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Oh, youb",
+        "ko": "+w ili l(!e Be목l)i e(lve i목n) y를i 자ou적믿rsneel적f. 오, v그신어다렇게어 될e 거야! 네"
+      },
+      {
+        "speaker": "A",
+        "en": "But I'm not so pretty.",
+        "ko": "그렇지만 전 그렇게 예쁘지 않은 걸요."
+      },
+      {
+        "speaker": "B",
+        "en": "Looks are not important. You just need confidence!",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "like ~ ~처럼/같은",
+      "I should believe in myself. : 내 자신을 믿어야겠어.",
+      "not so ~ : 그렇게 ~하진 않은",
+      "just need ~ ~만 있으면 된다"
+    ],
+    "practice": [
+      "1. 난 당신처럼 선생님이 되고 싶어요.",
+      "2. 넌 네 자신을 믿니?",
+      "3. 우린 그렇게 친하진 않아.",
+      "4. 난 네 사랑만 있으면 돼."
+    ]
+  },
+  "DAY 127": {
+    "title": "(3 1 Open the closet m",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Mom, have you seen my penguin toy?",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "Don't tell me you lost it.",
+        "ko": "설마 잃어버린 건 아니겠지?"
+      },
+      {
+        "speaker": "AI",
+        "en": "swear I put it on my bed.",
+        "ko": "맹세코 침대 위에 놔뒀는데."
+      },
+      {
+        "speaker": "B",
+        "en": "Check inside the closet or under the bed.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "Have you (p.p.)? : 너 (p.p.)해 본 적 있어?",
+      "Don't tell me+ ~. : 설마 ~인 건 아니겠지?",
+      "I swear + ~. : 맹세코 ~이야. / 나 ~이라고 맹세해.",
+      "under ~ ~의 밑에/밑으로"
+    ],
+    "practice": [
+      "1. 너 내 머리핀 본 적 있어?",
+      "2. 너 설마 그걸 고장 낸 건 아니겠지?",
+      "3. 맹세코 나 그거 안 만졌어.",
+      "4. 그거 침대 밑에 있어?"
+    ]
+  },
+  "DAY 128": {
+    "title": "Whose dog is this? 얘는 누구의 개야?",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "Peter, I'm sorry. I'm running late. Peter,",
+        "ko": "미안. 나 늦어지고 있어."
+      },
+      {
+        "speaker": "B",
+        "en": "Wow, what a surprise! You are late every time!",
+        "ko": ""
+      },
+      {
+        "speaker": "B",
+        "en": "What's your excuse this time?",
+        "ko": "이번엔 무슨 변명을 대려고?"
+      },
+      {
+        "speaker": "A",
+        "en": "My dog didn't wake me up.",
+        "ko": "우리 강아지가 날 안 깨워 줬어."
+      }
+    ],
+    "patterns": [
+      "Rose says she is running late. Rose가 늦어지고 있다네요.",
+      "I will get it right this time. : 이번엔 그걸 맞힐게. (이번엔 제대로 할게)"
+    ],
+    "practice": [
+      "1. 너 또 늦어지고 있니?",
+      "2. 그는 그의 열쇠를 매번 잊어.",
+      "3. 이번엔 뭐가 벌어진 거야?",
+      "4. 지금 당장 그를 깨워."
+    ]
+  },
+  "DAY 129": {
+    "title": "영",
+    "dialogue": [],
+    "patterns": [],
+    "practice": []
+  },
+  "DAY 130": {
+    "title": "보",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "en": "I've never traveled alone before.",
+        "ko": "난 전에 절대 혼자 여행해 본 적이 없어."
+      },
+      {
+        "speaker": "B",
+        "en": "Solo trips are cool, too.",
+        "ko": "혼자 가는 여행도 멋지지."
+      },
+      {
+        "speaker": "B",
+        "en": "You can go anywhere you want.",
+        "ko": "원하는 어디든 갈 수 있잖아."
+      },
+      {
+        "speaker": "A",
+        "en": "That's true. I can't do that with my girlfriend.",
+        "ko": ""
+      }
+    ],
+    "patterns": [
+      "have never (p.p.] : 절대[한 번도] (p.p.)해 본 적 없다",
+      "too : 또한, ~도",
+      "~ you want : 원하는 ~",
+      "with ~ ~와"
+    ],
+    "practice": [
+      "1. 난 절대 서울에 살아 본 적 없어.",
+      "2. 이 자동차도 빨라.",
+      "3. 원하는 아무 방이나 골라.",
+      "4. 난 내 여자 친구랑 점심 먹고 있어."
+    ]
+  }
+}

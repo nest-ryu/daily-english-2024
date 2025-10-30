@@ -112,7 +112,7 @@ st.markdown("🔹 DAY 번호를 입력하거나 ⏮⏭ 버튼으로 이동하세
 if "current_day" not in st.session_state:
     st.session_state.current_day = day_list[0]
 
-query = st.text_input("DAY 번호 입력 (예: 5 또는 005)", value=st.session_state.current_day)
+query = st.text_input("DAY 번호 입력 (예: 5 또는 005)", value="", placeholder=f"현재: {st.session_state.current_day}")
 norm = normalize_day(query)
 if norm and norm in data and norm != st.session_state.current_day:
     st.session_state.current_day = norm
